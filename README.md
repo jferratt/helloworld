@@ -1,4 +1,4 @@
 helloworld
 ==========
 My first repository on GitHub.
-I love :coffee:, :dog:, :smile:!
+I love :coffee:, :pizza:, :dog:, :smile:!
